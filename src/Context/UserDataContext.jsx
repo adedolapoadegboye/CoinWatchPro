@@ -79,7 +79,7 @@ export const UserDataProvider = ({ children }) => {
             },
           ],
         });
-        console.log("Document Created with ID: ", user.uid);
+        // console.log("Document Created with ID: ", user.uid);
       } else {
         // If the user document already exists, log a message
         // console.log("User document already exists");
@@ -117,7 +117,7 @@ export const UserDataProvider = ({ children }) => {
         return userInfo;
       } else {
         // docSnap.data() will be undefined in this case
-        console.log("No such document!");
+        // console.log("No such document!");
       }
     } catch (e) {
       // console.error("Error getting info document: ", e);
