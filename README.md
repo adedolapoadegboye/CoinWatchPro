@@ -31,11 +31,19 @@ To get started with this project, you will need to have Node.js and npm installe
 
 Here are some screenshots of the app:
 
-![Expense Tracker Sign In Page](https://drive.google.com/file/d/1yBM7D71mZHHtTqjkDfh7PX7wk1gOI-p2/view?usp=sharing)
+Sign in page
 
-![Expense Tracker Sign Up Page](https://drive.google.com/file/d/1BvryxeWjGSDNUeJtoEnWI2IZXbMau50a/view?usp=sharing)
+![Expense Tracker Sign In Page](https://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Sign%20in.png)
 
-![Expense Tracker Dashboard](https://drive.google.com/file/d/1VFht3QcxewSMkvRjjs9VpFY_mnSxmlmB/view?usp=sharing)
+Sign up page
+
+![Expense Tracker Sign Up Page](https://drihttps://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Sign%20up.png)
+
+Home page
+
+![Expense Tracker Dashboard](https://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Homepage.png)
+
+Add income page
 
 ![Expense Tracker Add Entry](https://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Add%20Entry%20Page.png)
 
