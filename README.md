@@ -37,7 +37,7 @@ Sign in page
 
 Sign up page
 
-![Expense Tracker Sign Up Page](https://drihttps://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Sign%20up.png)
+![Expense Tracker Sign Up Page](https://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Sign%20up.png)
 
 Home page
 
