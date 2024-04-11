@@ -31,11 +31,13 @@ To get started with this project, you will need to have Node.js and npm installe
 
 Here are some screenshots of the app:
 
-![Expense Tracker Homepage](https://user-images.githubusercontent.com/10000000/167267892-b2c3f2e7-d3a3-488c-8671-295986359977.png)
+![Expense Tracker Sign In Page](https://drive.google.com/file/d/1yBM7D71mZHHtTqjkDfh7PX7wk1gOI-p2/view?usp=sharing)
 
-![Expense Tracker Dashboard](https://user-images.githubusercontent.com/10000000/167267893-b2c3f2e7-d3a3-488c-8671-295986359977.png)
+![Expense Tracker Sign Up Page](https://drive.google.com/file/d/1BvryxeWjGSDNUeJtoEnWI2IZXbMau50a/view?usp=sharing)
 
-![Expense Tracker Add Expense](https://user-images.githubusercontent.com/10000000/167267894-b2c3f2e7-d3a3-488c-8671-295986359977.png)
+![Expense Tracker Dashboard](https://drive.google.com/file/d/1VFht3QcxewSMkvRjjs9VpFY_mnSxmlmB/view?usp=sharing)
+
+![Expense Tracker Add Entry](https://drive.google.com/file/d/1dJQ_pELxmS--kQIp3uYdYEKdF10ldowz/view?usp=sharing)
 
 ## Contributing
 
