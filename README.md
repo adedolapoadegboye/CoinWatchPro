@@ -37,7 +37,7 @@ Here are some screenshots of the app:
 
 ![Expense Tracker Dashboard](https://drive.google.com/file/d/1VFht3QcxewSMkvRjjs9VpFY_mnSxmlmB/view?usp=sharing)
 
-![Expense Tracker Add Entry](https://drive.google.com/file/d/1dJQ_pELxmS--kQIp3uYdYEKdF10ldowz/view?usp=sharing)
+![Expense Tracker Add Entry](https://github.com/adedolapoadegboye/CoinWatchPro/blob/main/Screenshots/Add%20Entry%20Page.png)
 
 ## Contributing
 
