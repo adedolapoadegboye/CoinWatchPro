@@ -60,7 +60,7 @@ const SummaryDonation = (props) => {
         </h2>
       </div>
       {/* Summary Cards */}
-      <div className="grid gap-2 lg:grid-cols-6 lg:grid-flow-col lg:grid-rows-1 lg:gap-4 px-2">
+      <div className="grid gap-2 lg:grid-cols-2 lg:grid-flow-col lg:grid-rows-1 lg:gap-4 px-2">
         {/* Total Donation Count Card */}
         <div className="border-2 border-gray-200 rounded-lg flex justify-between px-3 py-3">
           <div className="flex flex-col justify-between">

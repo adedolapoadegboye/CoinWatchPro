@@ -89,8 +89,8 @@ const Expenses = () => {
   let displayName;
   try {
     displayName =
-      user?.displayName.length > 5
-        ? `${user.displayName.slice(0, 5)}...`
+      user?.displayName.length > 3
+        ? `${user.displayName.slice(0, 3)}...`
         : user?.displayName;
   } catch (error) {
     // Handle error, maybe log it or set a default value for displayName
@@ -160,7 +160,7 @@ const Expenses = () => {
 
   return (
     <div
-      className={`flex noto-sans-1 w-screen h-fit lg:h-screen lg:fixed px-2 py-4 lg:py-2 relative ${dynamicThemeClass}`}
+      className={`md:overflow-y-auto flex noto-sans-1 w-screen h-fit lg:h-screen lg:fixed px-2 py-4 lg:py-2 relative ${dynamicThemeClass}`}
     >
       {/* Render the Navbar component */}
       <div

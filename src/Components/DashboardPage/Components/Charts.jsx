@@ -53,7 +53,7 @@ const IncomePieChart = ({ data }) => {
 
     // Render the pie chart
     return (
-      <div className="flex flex-col">
+      <div className="flex flex-col w-full h-full">
         <Pie
           data={chartData}
           options={{

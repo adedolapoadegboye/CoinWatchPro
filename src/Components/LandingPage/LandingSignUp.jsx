@@ -20,7 +20,7 @@ const LandingSignUp = (props) => {
             Sign up
           </button>
         </span>{" "}
-        here for free.
+        for free.
       </h4>
     </div>
   );

@@ -27,7 +27,7 @@ export const Tables = (props) => {
       await deleteUserData(timestamp, tableType);
       setSubmit(true);
       // Logic to open edit form/modal with pre-filled data
-      console.log("Deleted entry with timestamp:", timestamp);
+      // console.log("Deleted entry with timestamp:", timestamp);
     }
   };
 
@@ -111,8 +111,8 @@ export const Tables = (props) => {
 
     return (
       <div
-        className={`noto-sans-1 md:text-xs overflow-x-auto overflow-y-auto ${dynamicTextClass} ${dynamicThemeClass}`}
-        style={{ maxHeight: "50vh", maxWidth: "93vw" }} // Set maximum height to 50% of viewport height and rounded edges
+        className={`noto-sans-1 text-xs w-full h-[450px] overflow-x-auto overflow-y-auto ${dynamicTextClass} ${dynamicThemeClass}`}
+        // Set maximum height to 50% of viewport height and rounded edges
       >
         <table className="table-auto border-collapse w-full">
           <thead>
